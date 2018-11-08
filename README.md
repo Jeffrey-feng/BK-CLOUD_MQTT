@@ -16,3 +16,5 @@ https://pypi.org/project/paho-mqtt/
 显示地址https://open.iot.10086.cn/device/data?pid=182062&did=501998536
 
 模拟机舱温度，每隔3秒上传数据，自动检测4G信号，当连接云端时，LED显示绿色，4G断开时，显示红色。
+
+运行命令python3 mqtt1.py
